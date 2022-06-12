@@ -12,3 +12,5 @@ Here, I am testing new features of github or the general usage of github.
 Trying GitHub Pages
 [next page](https://roveda.github.io/sandbox/next_page.html)
 
+Using a relative link to [next page](next_page.md)
+
