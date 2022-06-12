@@ -19,7 +19,7 @@ some text here
 
 ### Mermaid Graph
 
-```mermaid
+```mermaid!
 graph TD;
     A-->B52;
     A-->another_Node;
