@@ -13,11 +13,7 @@ more to come
 
 some text here
 
-## Can I synchronize using [Obsidian]?
+## Can I synchronize using Obsidian?
 
-
-
-
-
-[Obsidian]: (https://obsidian.md)
+[Obsidian](https://obsidian.md)
 
