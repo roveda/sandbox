@@ -17,6 +17,8 @@ some text here
 
 [Obsidian](https://obsidian.md)
 
+### Mermaid Graph
+
 ```mermaid
 graph TD;
     A-->B;
@@ -25,4 +27,11 @@ graph TD;
     C-->D;
     D-->A;
 ```
+## Next Heading
+
+### Further down the Hierarchy
+
+### and one more
+
+Just text here.
 
