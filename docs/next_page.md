@@ -19,15 +19,7 @@ some text here
 
 ### Mermaid Graph
 
-```mermaid!
-graph TD;
-    A-->B52;
-    A-->another_Node;
-    B52-->D;
-    another_Node-->D;
-    D-->A;
-
-```
+The rendering works in Code edit page but not on the rendered Github Pages website.
 
 ```mermaid
 graph TD;
@@ -38,15 +30,7 @@ graph TD;
     D-->A;
 
 ```
-
-@startmermaid
-graph TD;
-    A-->B52;
-    A-->another_Node;
-    B52-->D;
-    another_Node-->D;
-    D-->A;
-@endmermaid
+Check that, it is finally useful for simple flowcharting.
 
 
 ## Next Heading
