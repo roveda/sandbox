@@ -22,9 +22,9 @@ some text here
 ```mermaid
 graph TD;
     A-->B52;
-    A-->another Node;
+    A-->another_Node;
     B52-->D;
-    another Node-->D;
+    another_Node-->D;
     D-->A;
 ```
 
