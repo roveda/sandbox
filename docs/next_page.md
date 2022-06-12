@@ -21,10 +21,10 @@ some text here
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    A-->B52;
+    A-->another Node;
+    B52-->D;
+    another Node-->D;
     D-->A;
 ```
 
