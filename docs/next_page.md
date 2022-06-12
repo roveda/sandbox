@@ -26,7 +26,28 @@ graph TD;
     B52-->D;
     another_Node-->D;
     D-->A;
+
 ```
+
+```mermaid
+graph TD;
+    A-->B52;
+    A-->another_Node;
+    B52-->D;
+    another_Node-->D;
+    D-->A;
+
+```
+
+@startmermaid
+graph TD;
+    A-->B52;
+    A-->another_Node;
+    B52-->D;
+    another_Node-->D;
+    D-->A;
+@endmermaid
+
 
 ## Next Heading
 
