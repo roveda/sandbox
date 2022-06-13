@@ -23,7 +23,7 @@ The rendering works in Code edit page but not on the rendered Github Pages websi
 
 ```mermaid
 graph TD;
-    A-->B52;
+    A[Begin here]-->B52;
     A-->another_Node;
     B52-->D;
     another_Node-->D;
